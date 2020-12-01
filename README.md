@@ -16,10 +16,15 @@
 {"ywsession":"ywn","Cookie":"ck1","Connection":"keep-alive","Content-Type":"application/json","Accept":"*/*","Host":"mqqapi.reader.qq.com","User-Agent":"UA","Referer":"https://appservice.qq.com/1110657249/0.30.0/page-frame.html","Accept-Language":"zh-cn","Accept-Encoding":"gzip, deflate, br","mpversion":"0.30.0"}@qqreadtimeurlVal@{"ywsession":"ywn","Cookie":"ck2","Connection":"keep-alive","Content-Type":"application/json","Accept":"*/*","Host":"mqqapi.reader.qq.com","User-Agent":"UA","Referer":"https://appservice.qq.com/1110657249/0.30.0/page-frame.html","Accept-Language":"zh-cn","Accept-Encoding":"gzip, deflate, br","mpversion":"0.30.0"}
 
 ywsession=ywn
+
 qqreadheaderVal cookie=ck1
+
 User-Agent=UA
+
 qqreadtimeurlVal=qqreadtimeurlVal
+
 qqreadtimeheaderVal cookie=ck2
+
 替换即可
 ### 多账号格式,直接换行就行  
 账号1的qqreadheaderVal@qqreadtimeurlVal@qqreadtimeheaderVal  
@@ -30,7 +35,9 @@ qqreadtimeheaderVal cookie=ck2
 HttpCanary（我用的）
 
 qqreadurlVal https://mqqapi.reader.qq.com/mqq/user/init
+
 qqreadheaderVal   ck1
 
-qqreadtimeurlVal   ReadTimeWithBid
-qqreadtimeheaderVal   ck2
+qqreadtimeurlVal     ReadTimeWithBid
+
+qqreadtimeheaderVal    ck2
