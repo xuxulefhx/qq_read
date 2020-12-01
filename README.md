@@ -34,6 +34,8 @@ qqreadtimeheaderVal cookie=ck2
 ### 安卓抓包工具  
 HttpCanary（我用的）
 
+抓包关键词搜索
+
 qqreadurlVal https://mqqapi.reader.qq.com/mqq/user/init
 
 qqreadheaderVal   ck1
