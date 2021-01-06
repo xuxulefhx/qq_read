@@ -2,6 +2,7 @@
 
 ## 项目停止更新
 ## 原作者链接：https://github.com/ziye12/JavaScript/tree/master/Task
+## TNanko大佬Python版本链接：https://github.com/TNanko/Scripts
 
 ### 重要！！！企鹅阅读Cookies每个月需要更换一次
 ### 重要！！！企鹅阅读Cookies每个月需要更换一次
